@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Lab01_HuynhThanhBinh_18019301_DHKTPM14">
-        <activity android:name=".Bai_1e"></activity>
+        <activity android:name=".Bai_1e"/>
         <activity android:name=".Bai_1d" />
         <activity android:name=".activity_bai_1c" />
         <activity android:name=".Bai_1b" />
